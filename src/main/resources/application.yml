@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: default
+
+swagger:
+  enabled: true
+
+info:
+  title: "Swagger Implementation"
+  description: "This is a demo project to implement Swagger in Spring Boot application"
+  version: 1.0
