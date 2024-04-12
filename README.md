@@ -4,8 +4,8 @@ Swagger is a collection of tools that use the OpenAPI specification. It is used 
 It also serves as an alternative to Postman for validating your endpints.
 
 Requirements:
-Java
-Maven
+1. Java
+2. Maven
 
 To see the Swagger UI in action:
   1. Run the application.
